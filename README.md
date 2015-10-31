@@ -2,6 +2,8 @@
 
 [Rancher API](http://github.com/mauchede/rancher-api) Bundle for the [Symfony](http://symfony.com/) Framework.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/d7b10c15-f24e-4519-91b8-94c07cbab88c/big.png)](https://insight.sensiolabs.com/projects/d7b10c15-f24e-4519-91b8-94c07cbab88c)
+
 ## Installation
 
 * Install Rancher API Bundle via [composer](https://getcomposer.org/):
