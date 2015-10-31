@@ -1,0 +1,4 @@
+projects:
+    1a5:
+        endpoint: "http://127.0.0.1:8080/v1/projects/1a5"
+        secret_key: uHcDeGfjZVjGksyCdohQghBRid2o4kwGrBHTLQWJ

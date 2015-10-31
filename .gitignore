@@ -1,0 +1,5 @@
+bin/*
+!bin/test
+composer.lock
+phpunit.xml
+vendor/*

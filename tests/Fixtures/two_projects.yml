@@ -1,0 +1,9 @@
+projects:
+    1a5:
+        endpoint: "http://127.0.0.1:8080/v1/projects/1a5"
+        access_key: 33637A6077E19F4F6F9E
+        secret_key: uHcDeGfjZVjGksyCdohQghBRid2o4kwGrBHTLQWJ
+    1a6:
+        endpoint: "http://127.0.0.1:8080/v1/projects/1a6"
+        access_key: 6286699A9146ACEC48F0
+        secret_key: rakd3bZbcYpqpoaBJzP5e4XS752Tb29E66gGpcC8
