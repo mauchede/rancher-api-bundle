@@ -2,6 +2,8 @@
 
 [Rancher API](http://github.com/mauchede/rancher-api) Bundle for the [Symfony](http://symfony.com/) Framework.
 
+⚠️ This project is no longer maintained. ⚠️
+
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/d7b10c15-f24e-4519-91b8-94c07cbab88c/big.png)](https://insight.sensiolabs.com/projects/d7b10c15-f24e-4519-91b8-94c07cbab88c)
 
 ## Installation
@@ -60,14 +62,6 @@ With the example of configuration, two services will be created:
 * `rancher_api.projects.project_B`.
 
 You can inject these services to another service or to use them in yours controllers.
-
-## Contributing
-
-1. Fork it.
-2. Create your branch: `git checkout -b my-new-feature`.
-3. Commit your changes: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin my-new-feature`.
-5. Submit a pull request.
 
 ## Links
 
